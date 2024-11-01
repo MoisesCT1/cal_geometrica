@@ -1,0 +1,30 @@
+C:\Users\ronyj\source\repos\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.exe
+C:\Users\ronyj\source\repos\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.deps.json
+C:\Users\ronyj\source\repos\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.runtimeconfig.json
+C:\Users\ronyj\source\repos\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.dll
+C:\Users\ronyj\source\repos\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.pdb
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.AssemblyInfoInputs.cache
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.AssemblyInfo.cs
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.csproj.CoreCompileInputs.cache
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.sourcelink.json
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.dll
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\refint\Calc_Geometrica.dll
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.pdb
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.genruntimeconfig.cache
+C:\Users\ronyj\source\repos\Calc_Geometrica\obj\Debug\net8.0\ref\Calc_Geometrica.dll
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.exe
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.deps.json
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.runtimeconfig.json
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.dll
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\bin\Debug\net8.0\Calc_Geometrica.pdb
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.AssemblyInfoInputs.cache
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.AssemblyInfo.cs
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.csproj.CoreCompileInputs.cache
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.sourcelink.json
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.dll
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\refint\Calc_Geometrica.dll
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.pdb
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\Calc_Geometrica.genruntimeconfig.cache
+C:\Users\moise\Desktop\proyectos en c#\progra_1\Calc_Geometrica\obj\Debug\net8.0\ref\Calc_Geometrica.dll
